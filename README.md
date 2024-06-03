@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @MJA645
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 👀 I’m interested in learning about coding to investigate a breach of my accounts
+- 🌱 I’m currently learning the very basics
+- 💞️ I’m looking to collaborate on anything that will help me find out more information 
+- 📫 How to reach me email me on mikezalaf@gmail.com
 - ⚡ Fun fact: ...
 
-<!---
-MJA645/MJA645 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+if you can help me please get in touch
+
+thanks in advance 
